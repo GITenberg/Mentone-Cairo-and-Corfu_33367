@@ -1,0 +1,36 @@
+_repo: Mentone-Cairo-and-Corfu_33367
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33367-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Woolson, Constance Fenimore
+    alias: March, Anne
+    birthdate: 1840
+    deathdate: 1894
+    gutenberg_agent_id: '2041'
+    url: http://www.gutenberg.org/2009/agents/2041
+    wikipedia: http://en.wikipedia.org/wiki/Constance_Fenimore_Woolson
+description: A distant relative of the great American writer James Fenimore Cooper,
+  Constance Fenimore Woolson emerged as an important female literary figure in the
+  late-nineteenth century. In this fascinating volume, she recounts her extensive
+  travels, offering readers a glimpse into a different era -- as well as the life
+  of an independent woman during a time when those who took such liberties were often
+  frowned upon.
+gutenberg_issued: '2010-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33367'
+  lccn: 04014857
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Menton (France)'
+- !lcsh 'Kerkyra (Greece)'
+- !lcc 'D'
+- !lcsh 'Cairo (Egypt)'
+title: Mentone, Cairo, and Corfu
+url: http://www.gutenberg.org/ebooks/33367
